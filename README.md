@@ -1,3 +1,3 @@
-# My-Project
+# My first javascript project
 
 My Javascript project 🌱
